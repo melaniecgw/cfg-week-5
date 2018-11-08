@@ -7,3 +7,14 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+div.starter-template {
+	background-image: url("../images/header.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.blue {
+    background-color: #89CFF0;
+}
